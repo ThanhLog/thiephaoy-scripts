@@ -1,0 +1,9 @@
+# Không đẩy code gốc (src/) và công cụ build lên Public Repo của jsDelivr
+src/
+node_modules/
+package.json
+package-lock.json
+obfuscate.cjs
+deploy.sh
+README.md
+README-main.md
